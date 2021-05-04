@@ -131,70 +131,137 @@
                 "scpDescription": "SCP-011 is a Civil War memorial statue located in Woodstock, Vermont. The statue is the image of a young male soldier holding a musket at his side, and is carved out of granite quarried within the area. Occasionally, SCP-011 has been observed lifting its musket to the sky to fire at birds which attempt to land or defecate on it. Reports detail that its movements produce soft grinding sounds but do not cause it any structural failure. Oddly, the gunfire is very similar to that of a standard firearm, despite observations that the item only loads granite bullets and granite powder into the musket (which is also unharmed by the firing). In spite of its efforts, some fecal matter does manage to strike SCP-011, and it has reportedly become distressed when it has had a large amount of feces on it, on some rare occasions even firing at humans."
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-012",
+                "scpObjectClass": "Euclid",
+                "scpSCP": "SCP-012 is to be kept in a darkened room at all times. If the object is exposed to light or seen by personnel using a light frequency other than infrared, remove personnel for mental health screening and immediate physical. Object is to be encased in an iron-shielded box, suspended from the ceiling with a minimum clearance of 2.5 m (8 ft) from the floor, walls, and any openings.",
+                "scpDescription": [
+                    "SCP-012 was retrieved by Archaeologist K.M. Sandoval during the excavation of a northern Italian tomb destroyed in a recent storm. The object, a piece of handwritten musical score entitled 'On Mount Golgotha', part of a larger set of sheet music, appears to be incomplete. The red/black ink, first thought to be some form of berry or natural dye ink, was later found to be human blood from multiple subjects. The first personnel to locate the sheet (Site 19 Special Salvage) had two (2) members descend into insanity, attempting to use their own blood to finish the composition, ultimately resulting in massive blood loss and internal trauma.",
+                    "Following initial investigations, multiple test subjects were allowed access to the score. In every case, the subjects mutilated themselves in order to use their own blood to finish the piece, resulting in subsequent symptoms of psychosis and massive trauma. Those subjects who managed to finish a section of the piece immediately committed suicide, declaring the piece to be 'impossible to complete'. Attempts to perform the music have resulted in a disagreeable cacophony, with each instrumental part having no correlation or harmony with the other instruments."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-013",
+                "scpObjectClass": "Safe",
+                "scpSCP": "SCP-013 are to be kept in a Secure Storage Vault at Site-66. Exposed subjects are to be monitored for differences between their symptoms. Exposed subjects are to be interviewed daily, and any changes in perception are to be logged.",
+                "scpDescription": [
+                    "SCP-013 is the collective designation of 242 cigarettes which display similar anomalies. The most common external detail between instances is the presence of the words “Blue Lady” hand-written on each cigarette in blue ink.",
+                    "Subjects who consume the contents of SCP-013 through inhalation will begin to perceive themselves as a specific unidentified woman. Subjects have described the woman to be aged between 25 and 35 years old, standing approximately 1.6 metres tall with an estimated weight of between 50 and 55 kg. Additional recurring details include cropped dark hair, blue eyes, and bright blue lipstick.",
+                    "Immediately after consuming an instance of SCP-013, subjects will gradually begin to perceive reflections of themselves as having the features of the woman, and will gradually perceive their bodies changing to reflect her appearance over the course of the following weeks. All changes are entirely mental; the subject’s body does not change outwardly, only their perception of themselves. These alterations are permanent, and cannot be reversed.",
+                    "SCP-013 was discovered after the suicide of an Ian Miles, packed in a large cardboard crate in his apartment. A cursory search of the apartment uncovered several hundred sketches of a figure strongly resembling the one perceived while under 013's effect. Miles' body had been found sitting at a desk, dead of a massive overdose and draped over a handwritten note, transcribed below.",
+                    "During the investigation of Miles' apartment, one civilian investigator became affected by 013's effect. An embedded Agent soon contacted the nearest Site; the subject, the artifact, and related evidence were extracted and contained.",
+                    "Currently, two hundred seventeen instances of SCP-013 cigarettes are contained at Bio-Site 66; twenty-five SCP-013 cigarettes are contained at Research Sector-09, pending future research into similar anomalous effects."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-014",
+                "scpObjectClass": "Safe",
+                "scpSCP": "SCP-014 is to be kept in Site-██, in a chair with arms, preferably facing a window. Music should be supplied on a regular basis, preferably constantly. This music should not include pieces originating after 1937. A security camera should be present in SCP-014's room.",
+                "scpDescription": [
+                    "SCP-014 is a Caucasian male, appearing to be approximately 30 years of age, with black hair, brown eyes, and a somewhat round face. Records indicate his name to be Robert Chetford, confined in 1915 to the Norwich Asylum in Connecticut for delusional insanity, claiming that he had been cursed to live forever, and was slowly turning into concrete in consequence. The asylum closed in 1937, and the patients were transferred to various other facilities. SCP-014 came to Foundation attention in 19██, from rumours of a patient who seemed to be entirely immobile and showed no signs of aging. Further investigation determined that acquisition was warranted.",
+                    "SCP-014 is to all outward appearances a normal man, but he does not appear to age, and shows no signs of possessing a metabolism. He does not eat, drink, perspire, or in any other way demonstrate life functions. He breathes only to speak, and apart from his eyes and vocal apparatus, is to all appearances utterly immobile. He has never shown any evidence of pressure ulcers despite his position not having varied for several decades; neither do his muscles appear atrophied. He can converse normally, but shows little knowledge of or interest in events since his confinement."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-015",
+                "scpObjectClass": "Euclid",
+                "scpSCP": [
+                    "SCP-015 is impossible to move, and is contained on-site. A gap of at least 2 m (6 ft) needs to be maintained around the entire structure containing SCP-015 at all times, and no structures of any kind are to make contact with SCP-015's current containment structure. Exploration is permissible, but only in teams of three (3) with full safety lines and GPS tracking. Any protrusions from SCP-015 must be capped and sealed immediately, with the new site recorded and logged.",
+                    "No aggressive action is to be made within SCP-015. No hand or power tools are allowed anywhere inside SCP-015. No repairs or maintenance are to be made anywhere on SCP-015."
+                ],
+                "scpDescription": [
+                    "SCP-015 is a mass of pipes, vents, boilers and other various plumbing apparatus completely filling a warehouse in ███████. The pipes appear to grow when not under observation, attempting to connect to nearby structures via sewer systems and underground plumbing. SCP-015 contains, at current estimate, over 190 kilometers (120 miles) of pipes, ranging in diameter from 2.5 cm to over 1 m. Some pipes appear new, while others are rusted and leaking. Pipes have been reported as being made of bone, wood, steel, pressed ash, human flesh, glass, and granite. No pipes composed of lead, PVC plastic, copper, or any other traditional material for the production of pipes have been found.",
+                    "SCP-015 reacts to tools and aggression. Any personnel acting violently, carrying tools, or attempting to damage or repair SCP-015 in any way, will trigger a reaction. Any pipes near the subject will burst, spraying on the subject for several seconds before the flow suddenly stops. Pipes have been reported containing oil, mercury, rats, a species of insect not yet identified, ground glass, sea water, entrails, and molten iron. Pipes will continue to burst around the subject until death or retreat.",
+                    "SCP-015 was cut back to its current structure after attaching to 11 other structures in the area. Currently, 11 personnel have been killed, and 20 more are still missing. Reports have been made of banging and screaming coming from within SCP-015."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-016",
+                "scpObjectClass": "Keter",
+                "scpSCP": [
+                    "SCP-016 is to remain within the confines of a five by five by five (5x5x5) meter room at all times, maintained at a temperature not to exceed zero (0) degrees Celsius. SCP-016 itself is to remain in the petri dish in the containment cube at all times unless directed otherwise by Level 4 or O5 personnel. Full documentation of experimentation with SCP-016 must be submitted before and after samples and duplicates of SCP-016 may be taken. Failure to follow these procedures will result in termination or reassignment as Class-D Personnel. Only authorized personnel may be permitted to obtain samples of and experiment with SCP-016 under BC-L5 containment conditions.",
+                    "If an outbreak does occur despite following the aforementioned procedures, directive base personnel are to implement a Code Sigma lockdown and containment plan. Infected personnel are to be terminated on site by security forces wearing standard Mission Oriented Protective Posture (MOPP) anti-biological and anti-chemical equipment. Should the infection not be contained after 48 hours, the on-site nuclear device is to be detonated. Remaining personnel are not to be evacuated under any circumstances.",
+                    "SCP-016 has been shown to survive for up to six (6) hours on hard surfaces, and up to several minutes in air. High intensity ultraviolet light and high concentrations of ortho-phthalaldehyde solution have been demonstrated to be effective in disinfecting non-organic surfaces."
+                ],
+                "scpDescription": [
+                    "SCP-016 is a blood-borne pathogen recovered from a mine worker in █████ who injured himself while working in a deep coal seam. Said wound became contaminated with coal dust from the mine, possibly infecting the worker with dormant spores. Over the next several days, SCP-016 proceeded to infect the remaining employees at the mining camp, as well as the CDC crisis team dispatched to deal with the epidemic. Foundation personnel then took over the investigation and terminated all affected personnel. Patient Zero was brought into captivity, and the mine shaft was collapsed by an explosive device.",
+                    "SCP-016 has an incubation period ranging from 24 hours to two (2) years, depending on the presence and number of other human hosts in the area. First symptoms resemble the common cold, and include itchy eyes, runny nose, coughing, and bodily aches. Phase two begins in 48 hours, and consists of a controlled form of hemorrhagic fever, as the organism causes a small amount of blood to become aspirated in the lungs, creating an aerosol effect. During phase three, the host 'crashes and bleeds out,' bleeding profusely from every bodily orifice, including the nose, tear ducts, anus, skin pores, mouth, urethra, and (in case of females) vagina. Blood pressure skyrockets during the final stage: hosts have been observed projectile vomiting blood to distances of over five (5) meters. Should the host survive this near-total exsanguination, the pathogen will become dormant once more, returning to incubation phase.",
+                    "What distinguishes SCP-016 from other strains of hemorrhagic fever such as Ebola and Marburg is its unusual response to high stress. Should the subject undergo a high-stress situation (such as a life-threatening crisis), the organism will change its survival tactic from rapid reproduction to the rewriting of the host's DNA and stimulation of rapid cell division. Major physiological changes occur within the first 24 hours, with complete bodily reconstruction occurring within two (2) weeks time. Most hosts do not survive the process due to the heavy demands made on the body.",
+                    "An interesting side effect of the transformation is an increased aggressive urge. It is believed that this may be an attempt to maximize the spread of the virus in a manner similar to rabies. On another note, subjects who undergo bodily transformation no longer appear to exhibit SCP-016's hemorrhagic properties: however, subjects infected by transformed hosts will still undergo the normal SCP-016 infection process."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-017",
+                "scpObjectClass": "Keter",
+                "scpSCP": [
+                    "SCP-017 is contained in an acrylic glass cage, 100 cm by 50 cm by 50 cm, centrally suspended in a concrete room measuring 6 m by 6 m by 4 m. Attached to the walls, ceiling, and floor of the room are high-intensity arc lamp spotlights pointed directly at the acrylic cage, to ensure that SCP-017 is constantly exposed to light from every angle. Personnel assigned to the SCP-017 control room are to monitor the functionality of the spotlights and the emergency generator system and call for maintenance immediately upon knowledge of a burnt-out lamp or an issue with the generator.",
+                    "The only circumstance under which personnel are allowed entrance is to replace lamps. Personnel entering the room are required to wear the designated full-body reflective suits, and must be cautioned not to step in front of functional spotlights."
+                ],
+                "scpDescription": [
+                    "SCP-017 is a humanoid figure approximately 80 centimeters in height, anatomically similar to a small child, but with no discernible identifying features. SCP-017 seems to be composed of a shadowy, smoke-like shroud. No attempt to find any object beneath the shroud has been successful, but the possibility has not been ruled out.",
+                    "SCP-017's reaction to shadows cast upon it is immediate and swift. SCP-017 leaps at the object casting the shadow and completely encloses it in its shroud, whereupon it returns to its normal size, leaving no trace of the object behind."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-018",
+                "scpObjectClass": "Euclid",
+                "scpSCP": "SCP-018 is to be contained in its specialty metal restraint inside of a 1 m by 1 m by 1 m sealed box lined with heavy synthetic padding. The sealed box is then submerged in the center of the 10 m by 10 m by 10 m polyethylene holding tank. If SCP-018 is to break free from the holding box, the polyethylene-based 'goo' will slow down kinetic activity enough for proper retrieval by containment personnel. Personnel entering SCP-018's holding chamber are to wear specialized plating (found inside of SCP-018 Observation), and a breathing apparatus before being lowered into the polyethylene tank. If SCP-018 is loose outside of the polyethylene tank, personnel are advised to secure themselves in a separate room and close doorways or hatches to isolate SCP-018 until containment teams arrive.",
+                "scpDescription": "SCP-018 has the appearance of a Super Ball made by the Wham-O company in 1969. It is six (6) centimeters in diameter and coloured red. Found when the ██████████ company was hired to clean out a warehouse that had Wham-O merchandise in it, SCP-018 was noted to be able to bounce with extreme height. At first thought to be a pleasant child's toy, SCP-018 was able to bounce with over two hundred percent (200%) efficiency (that is, if dropped one (1) meter, it would bounce two (2), then four (4), then eight (8), then sixteen (16)). The ball soon became a dangerous projectile, reaching speeds estimated at over 100 km/h and damaging property and injuring five (5) in the city of █████████████. It came to a rest after several days in the nearby lake of ████████, and was retrieved by SCP personnel. Due to the speed of the object, and the total surprise by its victims, no cover-up story was required or initiated."
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-019",
+                "scpObjectClass": "Keter",
+                "scpSCP": "SCP-019 is to be kept on a wide grate in a 3 m x 3 m x 4 m reinforced concrete room, installed with an incinerator. Room is to be kept at zero (0) degrees Celsius when incinerator is not activated. An observation chamber separated by a plate glass window is to be used for constant observation of SCP-019, and if/when specimens of SCP-019-2 are observed, the incinerator is to be activated. In the event of an outbreak of SCP-019-2, ordinary firearms are successful in terminating individual specimens, although in the case of a swarm-level outbreak, flamethrowers may be more effective. SCP-019 should be kept in a vertical position at all times.",
+                "scpDescription": [
+                    "SCP-019 appears to be a very large ceramic vase, 1.8 m in diameter at the mouth and 2.4 m high. Style and decoration indicate it was created in Classical Greece, although conclusive dating is impossible, as the surface is entirely unbreakable by any known means. If a successful method is discovered, SCP-019 is to be destroyed with prejudice.",
+                    "Periodically, entities emerge from SCP-019. Collectively, these are known as SCP-019-2. The entities vary in many aspects, but tend to be small, vaguely humanoid (though they may have animaloid features), and extremely hostile. They often choose to attack with teeth or claws. Although fairly delicate (also, surprisingly, flammable), they are reasonably strong and pose a considerable threat in large numbers.",
+                    "In addition, tipping or tilting SCP-019 will create a reaction as though it was previously “filled” with SCP-019-2 specimens, although viewers looking into SCP-019 from above will merely observe a dark hole. Due to the production rates of SCP-019-2 when the object is disturbed, measurement of the internal cavity is difficult, but it is suspected to be inconsistent with outside measurements."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-020",
+                "scpObjectClass": "Keter",
+                "scpSCP": [
+                    "Samples of SCP-020 are stored in a series of sealed cultivation chambers inside a sealed containment room at Biological Research Area-12 which is accessible only via airlock. Nutrients are administered via automated robotic systems, as the cultivation chamber must remain sealed at all times.",
+                    "Hermetically sealed video surveillance cameras are installed within the containment room, and must be checked daily for integrity. Any personnel entering the containment room must wear Biosafety Level 5 equipment including rebreathers and undergo full anti-fungal disinfection upon exiting."
+                ],
+                "scpDescription": [
+                    "SCP-020 is a fast-spreading fungal organism that is capable of affecting the senses and behavior of living creatures, including humans. Samples of SCP-020 exhibit an unknown effect that renders them effectively invisible to direct observation, even when under a microscope. SCP-020 is only visible to humans when viewed through photographic or video surveillance.",
+                    "Once SCP-020 forms a colony, usually within a human residence, it will produce spores that affect the behavior of humans around it. Affected subjects will increase the heat and humidity within their homes to create an environment more suitable to the growth of SCP-020. Affected subjects also become more sociable in many cases, and often invite acquaintances to their homes to further spread the organism. As the spores and mold colonies are invisible to affected subjects, the mold may sometimes grow directly on living subjects.",
+                    "As the spores and colonies within a home approach critical concentration, the health of affected human subjects will rapidly deteriorate, resulting in death. Further spread of the mold may occur as the bodies of any deceased subjects are encountered by emergency responders and health care agents, as well as transportation of the bodies to local morgues.",
+                    "SCP-020 was first encountered in [REDACTED], where an undercover SCP agent noted dramatic personality changes in personnel working at the local hospital. Upon investigation by a containment team, it was discovered that almost ███ civilians had been infected, as well as a majority of the town. The civilian population was terminated, and the town incinerated under cover of a local flash forest fire.",
+                    "To date, over 12 outbreaks of SCP-020 have been reported. Investigations are currently underway to determine the source of these outbreaks and possible preventative measures."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-021",
+                "scpObjectClass": "Safe",
+                "scpSCP": "SCP-021 is an obligate parasite of the human body. Containment, therefore, is no more difficult than containing an adult human; most cells will suffice. Item is currently housed in detention cell 217-A on subject D-139. Only class D personnel are eligible for hosting SCP-021. As long as a given subject survives as a host for SCP-021, he is exempt from normal monthly terminations of class D personnel.",
+                "scpDescription": [
+                    "SCP-021 takes the form of a large and elaborate tattoo of a serpentine dragon in the oriental style, covering approximately 0.8 square meters of skin. This tattoo is fully animate within the confines of its host's skin and behaves largely as a normal animal would, albeit in only two dimensions. The tattoo's movement causes constant pain to its host, comparable and similar in character to simultaneous tattooing and tattoo removal on a large scale. The organism tends to spend most of its time on and near the torso. SCP-021 displays no intelligence beyond a basic pattern of feeding and locomotion, although actually measuring the intelligence of a two-dimensional life-form has proven impossible thus far.",
+                    "SCP-021 appears to feed exclusively on pigments in the host's skin. This can include melanin, in which case the subject appears to be suffering from vitiligo. However, the organism shows a marked preference for other tattoos and will seek out and devour these before resorting to natural pigments. It should be noted that the feeding process itself, beyond the sensation of movement, is painless; normal tattoo ink simply vanishes as it is 'eaten'. The organism maintains a constant size, and no excretions have been observed. The organism is capable of clearing over 0.6 square meters of skin per hour. One may 'feed' SCP-021 by (quickly) tattooing fruits or small animals on the host.",
+                    "SCP-021 can be transferred between hosts by various forms of physical contact, with differing rates of success. In the case of successful transfer, the organism simply 'swims' from one person to the other. Sexual intercourse appears to be the most reliable method of transfer, with a 93% rate of transmission. However, due to the severe pain involved, this is less than ideal. Contact between two open wounds is generally preferable. Transfer is more complicated in deceased subjects, though not unreasonably so; the organism suffers no ill effects from the death of its host and continues to consume pigments. Transmission between species is unknown; previous tests suggest it to be either impossible or exceedingly rare.",
+                    "SCP-021 does confer some benefits to its host. The tattoo has been proven to accelerate the release and re-uptake of epinephrine and decrease lactic acid buildup, providing boosts of strength, confidence, and pain tolerance in stressful situations and reducing the usual after-effects of weakness and fatigue. In addition, the tattoo seems to have some beneficial effect on the host's immune system. Aggression profiles in hosts are generally higher than average, though whether this is a direct effect of the tattoo or simply a reaction to the constant pain remains to be seen.",
+                    "The symbiotic relationship is usually limited by how long the host can tolerate such pain in everyday life. This has culminated in suicide in a number of subjects. In rare cases, hosts have also fallen victim to fatal skin infections.",
+                    "SCP-021's origins and nature are a mystery. Tracing its transmission from host to host is hardly feasible within the confines of secrecy, and the organism could well be hundreds of years old, if not more. Nevertheless, SCP-021's captivity is one of the longest in the Foundation's history at nearly [DATA EXPUNGED] years, and has been very educational thus far. Current research focuses mainly on observing the characteristics of life in two dimensions."
+                ]
             },
             {
-                "scpNumber": "",
-                "scpObjectClass": "",
-                "scpSCP": "",
-                "scpDescription": ""
+                "scpNumber": "SCP-022",
+                "scpObjectClass": "Euclid",
+                "scpSCP": [
+                    "A vault door has been installed following Incident 022-827 to seal SCP-022. It is to remain locked at all times, with the sole exception being the appearance of an instance of SCP-022-1. The original door to SCP-022 was destroyed during Incident 022-827, with attempts at replacement being met with failure. Security cameras have been installed to monitor for instances of SCP-022-1.",
+                    "In the event that an instance of SCP-022-1 appears, automated systems should incinerate it the moment it leaves SCP-022. At this point the vault door may be unlocked to admit cleanup crews. Should the automated systems fail to destroy the instance of SCP-022-1, response teams are cleared to enter and neutralize it. Under no circumstances may any living human enter SCP-022 except at the order of Class-4 personnel for testing purposes. Class-4 personnel may also order instances of SCP-022-1 to be captured and held; however, they may not be removed from SCP-022 containment facilities."
+                ],
+                "scpDescription": [
+                    "SCP-022 is a morgue in the basement of [REDACTED] Hospital in Great Britain. Until 198█, there were no reported anomalous occurrences within the morgue. Reports of strange activity were first received in November of 198█. The area was soon quarantined by the Foundation, with an official story being released that the entire building had been condemned. The reason for the sudden manifestation of its strange properties remains under investigation.",
+                    "Periodically, a random drawer within the morgue will open to reveal a cadaver under a covered sheet. After approximately six minutes open, the cadaver will animate and attempt to leave the morgue. At this point, the cadaver is given the designation SCP-022-1. In some cases the cadaver will be too damaged or decomposed to successfully exit SCP-022 or even rise from the table it lies on. In this case, SCP-022-1 will typically struggle and twitch on the table until expiration occurs. Should an instance of SCP-022-1 expire while remaining on the table, the table slides back into the drawer, which then shuts. Reports indicate that the scent of burnt tissue is evident immediately following such an event.",
+                    "The energy source that sustains instances of SCP-022-1 is currently unknown. Instances do not breathe, eat, or sleep, and their bodies produce no heat. Analysis of SCP-022-1 following expiration has discovered no abnormal organs or chemicals present; they appear to be fully human cadavers.",
+                    "Instances also possess physical strength that exceeds that of normal humans. Though direct testing has proven problematic, researchers estimate the strength increase to be approximately 500 N (112 lb) of lifting force greater than what one would expect of a human body sharing a similar condition. Analysis is underway to determine if this effect is connected to the unknown power source or if it is an entirely separate phenomenon.",
+                    "When body parts are severed from SCP-022-1, the portion with the greatest mass retains its effects; all other pieces become inert. Destruction of the head or brain does not neutralize SCP-022-1; instead, the lower torso and limbs remain animate. Complete tissue destruction appears to be the only method of successfully terminating instances of SCP-022-1. Left alone, instances of SCP-022-1 will simply expire; all motion ceases and they appear to become normal cadavers again. The amount of time this takes depends on how damaged the body is and the rate of decomposition, and can take anywhere between two days and three weeks.",
+                    "Investigation has revealed that the bodies acting as SCP-022-1 match the description of cadavers reported to have been stolen from morgues across the country. The mechanism for this transfer is currently being researched.",
+                    "Adding any new matter to SCP-022 has thus far proved impossible. Any object that enters SCP-022 disappears shortly after passing through the door, leaving no trace. This includes inanimate objects and biological specimens. See Addendum 022-001 and 022-002.",
+                    "So long as an instance of SCP-022-1 possesses a functioning mouth, tongue, and trachea, it is able to communicate fully with researchers. See Interview Log 022-751 for details."
+                ]
             }
         ]
     }
