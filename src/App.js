@@ -1,37 +1,29 @@
 import './App.css';
 import React from "react";
+import Nav from "./Navigation";
+import ItemDetail from "./ScpItem";
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
-export default class App extends React.Component{
-  state = {
-    loading: true,
-    person: null,
-  }
-
-  async componentDidMount(){
-    const url = "https://scpdatabase-0fe9.restdb.io/rest/data";
-    const response = await fetch(url, {method: 'GET',
-      headers: 
-      { 'cache-control': 'no-cache',
-          'x-apikey': '6099da8fe3b6e02545eda6a8' }});
-    const data = await response.json();
-    this.setState({person: data[0], loading: false});
-  }
-
-  render(){
-    return(
+function App(){
+  return(
+    <Router> 
       <div>
-        {this.state.loading || !this.state.person ? (
-          <div>loading...</div>
-        ) : (
-          <div>
-            <div>{this.state.person.scpNumber}</div>
-            <div>{this.state.person.scpObjectClass}</div>
-            <div>{this.state.person.scpSCP}</div>
-            <div>{this.state.person.scpDescription}</div>
-          </div>
-        )}
-      </div>
-    );
-  }
+        <Nav />
+        <Switch>
+          <Route path="/"  exact component={Home}/>
+          <Route path="/:id" exact component={(props)=> <ItemDetail {...props} key={window.location.pathname}/>}/>
 
+        </Switch>
+      </div>
+    </Router>
+  );
 }
+
+const Home = () => (
+  <div>
+    <h1>Home</h1>
+  </div>
+)
+export default App;
+
+
