@@ -26,6 +26,7 @@ function ScpItem({match}){
             <h2>{item.scpObjectClass}</h2>
             <p>{item.scpSCP}</p>
             <p>{item.scpDescription}</p>
+            <img src={item.scpImage}/>
         </div>
     );
 }
