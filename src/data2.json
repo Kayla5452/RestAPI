@@ -11,7 +11,7 @@
             "SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60 m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.",
             "Refer to the Mulhausen Report [cross-ref:document00.023.603] for details related to object's discovery."
         ],
-        "scpImage": "images/scp-002.jpg"
+        "scpImage": "images/scp-002.JPG"
     },
     {
         "scpNumber": "SCP-003",
@@ -38,7 +38,7 @@
             "During each of SCP-003-1's growth stages, SCP-003-2 releases bursts of radiation that temporarily inhibit SCP-003-1's growth, or reverse this growth when the temperature of SCP-003-1 rises above 100°C. Similar radiation emissions have been replicated or recorded via other anomalous means.",
             "SCP-003-1's biology has been the subject of extensive study. Significant elements have been identified similar to SCP-███, SCP-1512, and SCP-2756, the latter two of which have no further confirmed connection with SCP-003-1 and no known connection with each other, and none of which are fully understood (technically, even less understood than SCP-003, thanks to the extensive cross-disciplinary research on the SCP-003 objects). To date, no convincing analysis has been put forward which satisfactorily explains SCP-003-1's connection to these SCP objects or others, nor its connection to modern technology beyond appearance (and potential mimicry via unknown mechanism)."
         ],
-        "scpImage": "images/scp-003.jpg"
+        "scpImage": "images/scp-003.JPG"
     },
     {
         "scpNumber": "SCP-004",
@@ -52,14 +52,14 @@
             "[DATA EXPUNGED]",
             "."
         ],
-        "scpImage": "images/scp-004.jpg"
+        "scpImage": "images/scp-004.JPG"
     },
     {
         "scpNumber": "SCP-005",
         "scpObjectClass": "Safe",
         "scpSCP": "SCP-005 poses no immediate risk in any direct sense. Even so, its unique functions require special measures be taken to restrict access and manipulation of the object. Approval of at least one (1) Level 4 personnel is required for the removal of the object from its containment area.",
         "scpDescription": "In appearance, SCP-005 resembles an ornate key, displaying the characteristics of a typical mass produced key used in the 1920s. The key was discovered when a civilian used it to infiltrate a high security facility. SCP-005 seems to have the unique ability to open any and all forms of lock (See Appendix A), be they mechanical or digital, with relative ease. The origin of this ability has yet to be determined.",
-        "scpImage": "images/scp-005.jpg"
+        "scpImage": "images/scp-005.JPG"
     },
     {
         "scpNumber": "SCP-006",
@@ -75,7 +75,7 @@
             "SCP-006 is a very small spring located 60 km west of Astrakhan. Foundation Command was aware of its existence since the 19th century, but were unable to secure it until 1991 due to political reasons. On the spot of the spring, a chemical factory has been constructed as a disguise, with the majority of laborers under Foundation and/or Russian control. The liquid emitted from the spring has been chemically identified as simple mineral water in 1902, but has the unusual property of 'health'.",
             "Ingesting the liquid produces the following properties in human beings: the ability to regenerate DNA damaged by sufficient duplication, heightened excitement of cellular duplication, vastly improved abilities in the repair of damaged tissue, and a frightening increase in the effectiveness of the human immune system. Upon testing the liquid on animal subjects, hostile bacteria and viral agents were destroyed immediately. Many reptiles and birds were unaffected, while higher primates experienced the same benefits as humans."
         ],
-        "scpImage": "images/scp-006.jpg"
+        "scpImage": "images/scp-006.JPG"
     },
     {
         "scpNumber": "SCP-007",
@@ -105,7 +105,7 @@
             "3.\tDeep Tissue Conversion: Exponential increase in temperature of SCP-009 causes runaway reaction throughout subject's body, resulting in [REDACTED]. Actual blood loss is minimal due to ice crystals [REDACTED], allowing subjects to remain alive and conscious for up to ██ hours.",
             "4.\t[DATA EXPUNGED]"
         ],
-        "scpImage": "images/scp-009.jpg"   
+        "scpImage": "images/scp-009.JPG"   
     },
     {
         "scpNumber": "SCP-010",
@@ -123,7 +123,7 @@
         "scpObjectClass": "Safe",
         "scpSCP": "Item SCP-011 and the area surrounding it are to be cleaned once every day. For safety purposes, cleaning should start at least 30 minutes after sundown. Cleaning should always be performed by at least two (2) personnel, who are also advised to note anything unusual about the item or the debris cleaned up. In a situation where the item cannot be cleaned for more than two (2) days, local residents must be contacted and instructed not to approach the item.",
         "scpDescription": "SCP-011 is a Civil War memorial statue located in Woodstock, Vermont. The statue is the image of a young male soldier holding a musket at his side, and is carved out of granite quarried within the area. Occasionally, SCP-011 has been observed lifting its musket to the sky to fire at birds which attempt to land or defecate on it. Reports detail that its movements produce soft grinding sounds but do not cause it any structural failure. Oddly, the gunfire is very similar to that of a standard firearm, despite observations that the item only loads granite bullets and granite powder into the musket (which is also unharmed by the firing). In spite of its efforts, some fecal matter does manage to strike SCP-011, and it has reportedly become distressed when it has had a large amount of feces on it, on some rare occasions even firing at humans.",
-        "scpImage": "images/scp-011.jpg"
+        "scpImage": "images/scp-011.JPG"
     },
     {
         "scpNumber": "SCP-012",
@@ -147,7 +147,7 @@
             "During the investigation of Miles' apartment, one civilian investigator became affected by 013's effect. An embedded Agent soon contacted the nearest Site; the subject, the artifact, and related evidence were extracted and contained.",
             "Currently, two hundred seventeen instances of SCP-013 cigarettes are contained at Bio-Site 66; twenty-five SCP-013 cigarettes are contained at Research Sector-09, pending future research into similar anomalous effects."
         ],
-        "scpImage": "images/scp-013.jpg"
+        "scpImage": "images/scp-013.JPG"
     },
     {
         "scpNumber": "SCP-014",
@@ -171,7 +171,7 @@
             "SCP-015 reacts to tools and aggression. Any personnel acting violently, carrying tools, or attempting to damage or repair SCP-015 in any way, will trigger a reaction. Any pipes near the subject will burst, spraying on the subject for several seconds before the flow suddenly stops. Pipes have been reported containing oil, mercury, rats, a species of insect not yet identified, ground glass, sea water, entrails, and molten iron. Pipes will continue to burst around the subject until death or retreat.",
             "SCP-015 was cut back to its current structure after attaching to 11 other structures in the area. Currently, 11 personnel have been killed, and 20 more are still missing. Reports have been made of banging and screaming coming from within SCP-015."
         ],
-        "scpImage": "images/scp-015.jpg"
+        "scpImage": "images/scp-015.JPG"
     },
     {
         "scpNumber": "SCP-016",
@@ -200,7 +200,7 @@
             "SCP-017 is a humanoid figure approximately 80 centimeters in height, anatomically similar to a small child, but with no discernible identifying features. SCP-017 seems to be composed of a shadowy, smoke-like shroud. No attempt to find any object beneath the shroud has been successful, but the possibility has not been ruled out.",
             "SCP-017's reaction to shadows cast upon it is immediate and swift. SCP-017 leaps at the object casting the shadow and completely encloses it in its shroud, whereupon it returns to its normal size, leaving no trace of the object behind."
         ],
-        "scpImage": "images/scp-017.jpg"
+        "scpImage": "images/scp-017.JPG"
     },
     {
         "scpNumber": "SCP-018",
@@ -218,7 +218,7 @@
             "Periodically, entities emerge from SCP-019. Collectively, these are known as SCP-019-2. The entities vary in many aspects, but tend to be small, vaguely humanoid (though they may have animaloid features), and extremely hostile. They often choose to attack with teeth or claws. Although fairly delicate (also, surprisingly, flammable), they are reasonably strong and pose a considerable threat in large numbers.",
             "In addition, tipping or tilting SCP-019 will create a reaction as though it was previously “filled” with SCP-019-2 specimens, although viewers looking into SCP-019 from above will merely observe a dark hole. Due to the production rates of SCP-019-2 when the object is disturbed, measurement of the internal cavity is difficult, but it is suspected to be inconsistent with outside measurements."
         ],
-        "scpImage": "images/scp-019.jpg"
+        "scpImage": "images/scp-019.JPG"
     },
     {
         "scpNumber": "SCP-020",
@@ -234,7 +234,7 @@
             "SCP-020 was first encountered in [REDACTED], where an undercover SCP agent noted dramatic personality changes in personnel working at the local hospital. Upon investigation by a containment team, it was discovered that almost ███ civilians had been infected, as well as a majority of the town. The civilian population was terminated, and the town incinerated under cover of a local flash forest fire.",
             "To date, over 12 outbreaks of SCP-020 have been reported. Investigations are currently underway to determine the source of these outbreaks and possible preventative measures."
         ],
-        "scpImage": "images/scp-020.jpg"
+        "scpImage": "images/scp-020.JPG"
     },
     {
         "scpNumber": "SCP-021",
@@ -248,7 +248,7 @@
             "The symbiotic relationship is usually limited by how long the host can tolerate such pain in everyday life. This has culminated in suicide in a number of subjects. In rare cases, hosts have also fallen victim to fatal skin infections.",
             "SCP-021's origins and nature are a mystery. Tracing its transmission from host to host is hardly feasible within the confines of secrecy, and the organism could well be hundreds of years old, if not more. Nevertheless, SCP-021's captivity is one of the longest in the Foundation's history at nearly [DATA EXPUNGED] years, and has been very educational thus far. Current research focuses mainly on observing the characteristics of life in two dimensions."
         ],
-        "scpImage": "images/scp-021.jpg"
+        "scpImage": "images/scp-021.JPG"
     },
     {
         "scpNumber": "SCP-022",
