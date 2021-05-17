@@ -2,6 +2,7 @@ import './App.css';
 import React from "react";
 import Nav from "./Navigation";
 import ItemDetail from "./ScpItem";
+import Home from "./Home";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 function App(){
@@ -19,11 +20,6 @@ function App(){
   );
 }
 
-const Home = () => (
-  <div>
-    <h1>Home</h1>
-  </div>
-)
 export default App;
 
 
