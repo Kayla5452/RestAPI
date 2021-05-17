@@ -5,6 +5,7 @@ function ScpItem({match}){
 
     useEffect(() => {
         fetchItem();
+        // eslint-disable-next-line react-hooks/exhaustive-deps
     }, []);
 
     const fetchItem = async () => {
@@ -27,7 +28,7 @@ function ScpItem({match}){
                 <p>{item.scpSCP}</p>
                 <h4>Description</h4>
                 <p>{item.scpDescription}</p>
-                <img src={item.scpImage}/>
+                <img src={item.scpImage} alt=""/>
             </div>
         </div>
     );
