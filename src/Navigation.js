@@ -29,10 +29,10 @@ function Navigation(){
                         
                     <Link to="/" className="nav-link" aria-current="page"><li>Home</li></Link>
                         <li class="nav-item dropdown">
-                        <button class="nav-link dropdown-toggle" id="navbarDarkDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="dropdown-links" id="navbarDarkDropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             SCP Items
-                        </button>
-                        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+                        </a>
+                        <ul id="dropdown-links" class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
                             {items.map(item => (
                                 <Link to={`/${item._id}`} className="dropdown-item"><li>{item.scpNumber}</li></Link>
                             ))}
